@@ -1,0 +1,15 @@
+.App{
+min-height: 100vh;
+text-align: center;
+/* margin-left: 600px; */
+}
+
+.card{
+  margin-top: 125px;
+  margin-left: 500px;
+  width: 500px;
+}
+
+img{
+  margin-top: -80px;
+}
