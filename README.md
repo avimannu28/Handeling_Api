@@ -2,8 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
  
- ### About Project
- This Project is about Introduction to Anxios Api
+ ## About Project
+ This Project is about Introduction to Anxios Api where you can call get request and use useEffect 
 ## Available Scripts
 
 In the project directory, you can run:
