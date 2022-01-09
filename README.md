@@ -58,7 +58,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ### Making a Progressive Web App
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-<img width="964" alt="jarray reverse exampl" src="https://github.com/jaimehernan95/arrayReview-java/blob/master/images/arrayReverse.png">
+
 ### Advanced Configuration
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
@@ -69,4 +69,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-https://github.com/avimannu28/Image/blob/master/screencapture-localhost-3000-2022-01-09-18_04_18.png
+<img width="964" alt="jarray reverse exampl" src="https://github.com/avimannu28/Image/blob/master/screencapture-localhost-3000-2022-01-09-18_04_18.png">
